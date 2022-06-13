@@ -1,0 +1,11 @@
+[package]
+name = "big_int_mult"
+version = "0.3.4"
+edition = "2021"
+authors = ["furtherun <furtherun@outlook.com>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.5"
+plotlib = "0.5.1"
