@@ -24,3 +24,8 @@
    1. 设计算法，写伪代码，分析时间复杂度；
    2. 或者逐步分析算法（如prim算法）每一步的变化。
 4. 一道概率分析题目。
+
+## 参考资料
+
+- 算法导论第三版（Introduction to Algorithms 3ed）
+- 算法设计与分析基础第三版（Introduction to the Design and Analysis of Algorithms 3ed）
